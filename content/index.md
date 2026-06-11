@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Keyboard Builds
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+I have MX style keyboard builds as well as Topre cup rubber. Pick a category and checkout one of my builds!
