@@ -1,0 +1,1 @@
+This site intended to keep track of my mechanical keyboard builds for myself and potentially others. 

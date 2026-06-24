@@ -1,4 +1,4 @@
 ---
 title: Keyboard Builds
 ---
-I have MX/HE/Topre cup rubber builds. Pick a board and check it out :D
+I have MX style keyboard builds as well as Topre cup rubber. Pick a category and checkout one of my builds!
