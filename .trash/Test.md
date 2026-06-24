@@ -1,5 +1,5 @@
 ---
-title: CNAME
+title: "{{name}}"
 draft: false
 tags:
 ---

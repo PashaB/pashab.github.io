@@ -1,5 +1,5 @@
 ---
-title: <% tp.file.title %>
+title: Bauer Lite
 draft: false
 tags:
 ---
