@@ -8,7 +8,7 @@ All of the content in your Quartz should go in the `/content` folder. The conten
 
 It is recommended that you use [Obsidian](https://obsidian.md/) as a way to edit and maintain your Quartz. It comes with a nice editor and graphical interface to preview, edit, and link your local files and attachments.
 
-Got everything set up? Preview your site locally with `npx quartz build --serve`, or see the [[build|build reference]] for more options.
+Got everything set up? Preview your site locally with `npx quartz build --serve`, or see the [[docs/cli/build|build reference]] for more options.
 
 ## Syntax
 
