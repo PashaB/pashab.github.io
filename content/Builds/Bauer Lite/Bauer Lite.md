@@ -23,7 +23,7 @@ stab_brand: Fourwraps v2
 keyboard_mods: Stock
 ---
 This keyboard quickly became a clacky favorite of mine. 
-
+![[1.jpg]]
 ## Parts:
 - Case: Turquoise Top and Bottom
 - Plate: Carbon Fiber (after replacing the PC plate with Aluminum I landed on CF)
@@ -45,3 +45,5 @@ I found cracks in my PC plate after a year of use so I decided to try the new Al
 I originally built the board with Equalz X TKC Fruit Smoothie Switches - Blue 67g. They were great at first but quickly deteriorated. Stems no longer held caps well and the top housing didn't clip into the bottom housing well after use. They came with their own specific switch films manufactured by C³EQUALZ with 0.18mm thickness. I lubed and filmed each one, removing the LED diffuser with each switch. All for naught unfortunately. 
 
 Following that debacle I decided to give into the HMX hype and chose the Latte switches. Great weight and sound, still in use today. Factory lube job is fantastic and tighter tolerances mean a switch film isn't required. The additional chocolate bar sized weight was also an easy and beneficial addition. The build is complete, and the 7u spacebar *suh-laptz*. 
+
+![[2.jpg]]
