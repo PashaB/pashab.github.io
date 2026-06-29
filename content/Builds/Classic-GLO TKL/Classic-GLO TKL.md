@@ -1,7 +1,25 @@
 ---
-title: Classic-GLO TKL
-draft: false
 tags:
-  - "#TKL"
+  - keyboard/build
+status: Complete
+date_built: 04/29/26
+total_cost: 0
+board_model: Translucent Classic-GLO
+form_factor: TKL
+mount_style: gasket mount
+case_material: Injection molded ABS
+plate_material: Polycarbonate plate
+pcb_type: MX Mechanical
+connectivity:
+  - Wired USB-C
+switch_model: Gateron Milky Yellow
+actuation_force_g: 50
+bottom_out_force_g: 62
+Case weight:
+switch_mods:
+  - Lube and film
+keycap_set: KAT Crusader
+stab_brand: Knight V4
+keyboard_mods: Full foams
 ---
-![[Pasted image 20260624035048.png]]
+I do not like how this keyboard sounds, at all. 
