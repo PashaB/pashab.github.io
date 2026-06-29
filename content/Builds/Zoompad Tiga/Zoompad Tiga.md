@@ -1,8 +1,9 @@
 ---
 tags:
-  - keyboard/build
-status: Planning
-date_built:
+  - MX
+  - numpad
+status: Complete
+date_built: 09/28/25
 total_cost: 0
 board_model: ""
 form_factor: ""

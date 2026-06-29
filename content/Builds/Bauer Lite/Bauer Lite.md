@@ -16,6 +16,8 @@ connectivity:
 switch_model: HMX Latte
 actuation_force_g: 57
 bottom_out_force_g: 63.5
+switch_travel: 4.0mm
+total_weight:
 switch_mods:
   - Stock
 keycap_set: KAT Atlantis
@@ -26,9 +28,9 @@ This keyboard quickly became a clacky favorite of mine.
 ![[1.jpg]]
 ## Parts:
 - Case: Turquoise Top and Bottom
-- Plate: Carbon Fiber (after replacing the PC plate with Aluminum I landed on CF)
+- Plate: Carbon Fiber
 - Switches: HMX Latte switches
-- Stabilizer: Fourwraps v2 Clip-in + Spacebar screwed in on one side
+- Stabilizer: Fourwraps v2 Clip-in
 - Keycaps: KAT Atlantis
 - Mounting style: Gasket -- Donut + Taco bumpers. Color matched to turquoise 
 - Weight: Standard silver color

@@ -1,6 +1,6 @@
 ---
 tags:
-  - keyboard/build
+  - MX
 status: Complete
 date_built: 04/29/26
 total_cost: 0
@@ -15,7 +15,8 @@ connectivity:
 switch_model: Gateron Milky Yellow
 actuation_force_g: 50
 bottom_out_force_g: 62
-Case weight:
+switch_travel: 4.0mm
+total_weight:
 switch_mods:
   - Lube and film
 keycap_set: KAT Crusader
