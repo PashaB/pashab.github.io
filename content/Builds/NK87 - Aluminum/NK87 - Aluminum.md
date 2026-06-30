@@ -23,3 +23,4 @@ keycap_set: KAT Slurp
 stab_brand: TX AP4
 keyboard_mods: Full foams
 ---
+![[ubvoe9ivpuce1.jpg]]
