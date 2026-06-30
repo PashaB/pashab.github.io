@@ -1,6 +1,6 @@
 ---
 tags:
-  - keyboard/build
+  - MX
 status: Planning
 date_built:
 total_cost: 0
