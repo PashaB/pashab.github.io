@@ -1,24 +1,25 @@
 ---
 tags:
   - MX
-status: Planning
-date_built:
-total_cost: 0
-board_model: ""
-form_factor: ""
-mount_style: ""
-case_material: ""
-plate_material: ""
+status: Complete
+date_built: 07/25/13
+total_cost: 135
+board_model: Ducky DK9087G2 PRO
+form_factor: TKL
+mount_style: Top Mount
+case_material: abs
+plate_material: aluminum
 pcb_type: MX Mechanical
 connectivity:
   - Wired USB-C
-switch_model: ""
-actuation_force_g: 0
-bottom_out_force_g: 0
-switch_travel:
+switch_model: Cherry mx blues
+actuation_force_g: 50
+bottom_out_force_g: 60
+switch_travel: 4.0mm
 total_weight:
-switch_mods: []
-keycap_set: ""
-stab_brand: ""
-keyboard_mods:
+switch_mods:
+  - Stock
+keycap_set: OEM
+stab_brand: OEM
+keyboard_mods: Stock
 ---
