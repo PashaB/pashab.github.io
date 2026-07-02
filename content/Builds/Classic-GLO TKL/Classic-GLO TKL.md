@@ -23,4 +23,13 @@ keycap_set: KAT Crusader
 stab_brand: Knight V4
 keyboard_mods: Full foams
 ---
-I do not like how this keyboard sounds, at all. 
+![[classic-glo-kat-crusader-milky-yellows-matched-gaskets-v0-vte0agdhk0wg1.webp]]
+## Parts:
+- Case: Classic-GLO Translucent
+- Plate: Polycarbonate (PC)
+- Switches: Milky yellows lube + film
+- Stabilizer: Knight v4
+- Keycaps: KAT Crusader
+- Mounting style: Gasket -- Color matched yellow/orange 
+- Foams: No
+- Total cost: $260
