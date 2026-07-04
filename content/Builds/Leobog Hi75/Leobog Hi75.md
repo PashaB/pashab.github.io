@@ -46,7 +46,7 @@ Plate mount stabilizers are now great! Designer studios created a novel design t
 
 ![[Pasted image 20260704191644.png]]
 
-Altogether these parts cost about the same as the barebones kit, but are well worth it. The board feels incredibly solid. The Hi-75 C that followed this came with an FR4 plate by default. 
+Altogether these parts cost about the same as the barebones kit, they're well worth it. The board feels incredibly solid. The Hi-75 C variant that followed came with an FR4 plate by default. 
 
 ![[hi-2.jpg]]
 
