@@ -1,26 +1,27 @@
 ---
 tags:
   - MX
-status: Planning
-date_built:
-total_cost: 0
-board_model: ""
-form_factor: ""
-mount_style: ""
-case_material: ""
-plate_material: ""
+status: Complete
+date_built: 05/30/26
+total_cost: 175
+board_model: Leobog Hi75
+form_factor: 75%
+mount_style: gasket mount
+case_material: Aluminum
+plate_material: FR4
 pcb_type: MX Mechanical
 connectivity:
   - Wired USB-C
-switch_model: ""
-actuation_force_g: 0
-bottom_out_force_g: 0
-switch_travel:
+switch_model: Gateron Milky Yellow
+actuation_force_g: 53
+bottom_out_force_g: 60
+switch_travel: 4.0mm
 total_weight:
-switch_mods: []
-keycap_set: ""
-stab_brand: ""
-keyboard_mods:
+switch_mods:
+  - Lube
+keycap_set: KAM Outline
+stab_brand: Designer studio plate mount
+keyboard_mods: Knob replacement
 ---
 ![[hi-1.jpg]]
 
@@ -51,4 +52,6 @@ Altogether these parts cost about the same as the barebones kit, but are well wo
 
 ![[hi-3.jpg]]
 
-The default knob for the Hi75 is an off-putting red. Replacing it with black was an easy and successful decision. I am thrilled with the performance of this budget board, as well as the KAM profile. 
+The default knob for the Hi75 is an off-putting red. Replacing it with black was an easy and successful decision. I am thrilled with the performance of this budget board, as well as the KAM profile. Mechanical keyboards have come a long way in 2026. An aluminum kit like this pre-2020 would have cost closer to $500. 
+
+![[hi-4 1.jpg]]
