@@ -25,7 +25,7 @@ stab_brand: Fourwraps v2
 keyboard_mods: Stock
 ---
 This keyboard quickly became a clacky favorite of mine. 
-![[1.jpg]]
+![[content/Builds/Bauer Lite/Attachments/1.jpg]]
 ## Parts:
 - Case: Turquoise Top and Bottom
 - Plate: Carbon Fiber

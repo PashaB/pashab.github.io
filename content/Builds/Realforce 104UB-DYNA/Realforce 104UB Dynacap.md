@@ -22,4 +22,4 @@ keycap_set: ""
 stab_brand: ""
 keyboard_mods:
 ---
-![[content/Builds/Realforce 104UB (Dyna)/Attachments/1.jpg]]
+![[content/Builds/Realforce 104UB-DYNA/Attachments/1.jpg]]
