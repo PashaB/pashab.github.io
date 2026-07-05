@@ -31,5 +31,5 @@ keyboard_mods: Full foams
 - Stabilizer: Knight v4
 - Keycaps: KAT Crusader
 - Mounting style: Gasket -- Color matched yellow/orange 
-- Foams: No
+- Foams: Case foam only
 - Total cost: $260
