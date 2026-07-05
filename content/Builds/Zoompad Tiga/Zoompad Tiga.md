@@ -25,3 +25,14 @@ stab_brand: Knight V4
 keyboard_mods: Full foams
 ---
 ![[kqgaluot4zrf1.jpg]]
+
+## Parts:
+- Case: Zoompad Tiga Gunmetal Gray
+- Plate: POM
+- Switches: Gateron Milky Yellow - lube + film
+- Stabilizer: Knight v4
+- Keycaps: KAT Iron + Salvun FE Artisan
+- Mounting style: Silica Gel Mount
+- Weight: None
+- Foams: Yes - Poron
+- Total cost: $200
