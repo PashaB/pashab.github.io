@@ -36,9 +36,9 @@ keyboard_mods: Knob replacement
 - Foams: Yes - Poron switch pad removed
 - Total cost: $175
 
-I purchased this barebones kit for half off at $38. The listing was 'pink' but it's a beige pink. I thought it would pair wonderfully with black and beige. I took this chance to try out the KAM profile and ordered 'Outline' for it. Similar to KAT but the entire profile is uniform like DSA (my original favorite profile). 
+I purchased this barebones kit for half off at $38. The listing was 'pink' but it's a beige pink. I thought it would pair wonderfully with black and beige. I took this chance to try out the KAM profile and ordered 'KAM Outline' for it. Similar to KAT but the entire profile is uniform like DSA (my original favorite profile). 
 
-The first problem was the flex cut PC plate it came with. Much too soft for my liking. The next problem with the stabilizers ticked and felt of low quality. Luckily I found both solutions on Aliexpress. This board is popular in china, and so aftermarket plates were created for it. There are 2 version of the FR4 plate, I recommend the 'B' variant with vertical flex cuts instead of horizontal. Rigid with just the right amount of give. 
+The first problem was the flex cut PC plate it came with. Much too soft for my liking. The next problem was the stabilizers ticked and felt of low quality. Luckily I found both solutions on Aliexpress. This board is popular in china, and so aftermarket plate support is available. There are 2 version of the FR4 plate, I recommend the 'B' variant with vertical flex cuts instead of horizontal. Rigid with just the right amount of give. 
 
 ![[Pasted image 20260704191259.png]]
 
@@ -46,7 +46,7 @@ Plate mount stabilizers are now great! Designer studios created a novel design t
 
 ![[Pasted image 20260704191644.png]]
 
-Altogether these parts cost about the same as the barebones kit, they're well worth it. The board feels incredibly solid. The Hi-75 C variant that followed came with an FR4 plate by default. 
+Altogether these parts cost about the same as the barebones kit, but they're well worth it. The board feels incredibly solid. The Hi-75 C variant that followed came with an FR4 plate by default. 
 
 ![[hi-2.jpg]]
 
