@@ -25,7 +25,7 @@ stab_brand: Fourwraps v2
 keyboard_mods: Stock
 ---
 This keyboard quickly became a clacky favorite of mine. 
-![[content/Builds/Bauer Lite/Attachments/1.jpg]]
+![[bauer1.jpg]]
 ## Parts:
 - Case: Turquoise Top and Bottom
 - Plate: Carbon Fiber
@@ -48,4 +48,4 @@ I originally built the board with Equalz X TKC Fruit Smoothie Switches - Blue 67
 
 Following that debacle I decided to give into the HMX hype and chose the Latte switches. Great weight and sound, still in use today. Factory lube job is fantastic and tighter tolerances mean a switch film isn't required. The additional chocolate bar sized weight was also an easy and beneficial addition. The build is complete, and the 7u spacebar *suh-laptz*. 
 
-![[2.jpg]]
+![[bauer2.jpg]]

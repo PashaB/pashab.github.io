@@ -22,7 +22,7 @@ keycap_set: ""
 stab_brand: ""
 keyboard_mods:
 ---
-![[content/Builds/Realforce 104UB-DYNA/Attachments/1.jpg]]
+![[104ub-1.jpg]]
 
 I sanded the steel plate to remove rust and applied a clear coat.
-![[content/Builds/Realforce 104UB-DYNA/Attachments/2.jpg]]
+![[104ub-2.jpg]]
