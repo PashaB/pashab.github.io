@@ -33,6 +33,6 @@ keyboard_mods: Full foams
 - Stabilizer: Knight v4
 - Keycaps: KAT Iron + Salvun FE Artisan
 - Mounting style: Silica Gel Mount
-- Weight: None
+- Weight: Stock external weight
 - Foams: Yes - Poron
 - Total cost: $200
