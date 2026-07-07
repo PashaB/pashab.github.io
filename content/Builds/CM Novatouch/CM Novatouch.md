@@ -25,4 +25,16 @@ keycap_set: KAT Mizu Bloodmoon
 stab_brand: OEM
 keyboard_mods:
 ---
+## Parts:
+- Case: Stock ABS case
+- Plate: Steel
+- Switches: Novatouch OEM housing/slider
+- Domes: Aged OEM 45grams. Closer to 60grams now
+- Stabilizer: OEM 'Crown' Novatouch  
+- Keycaps: KAT Mizu Bloodmoon + novelties 
+- Mounting style: Top mount
+- Foams: No
+- Total cost: $400
+
+
 Great review of the Novatouch https://imgur.com/a/cm-novatouch-review-CMqpt

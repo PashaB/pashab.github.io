@@ -23,3 +23,12 @@ keycap_set: OEM
 stab_brand: OEM
 keyboard_mods: Stock
 ---
+## Parts:
+- Case: Stock ABS case
+- Plate: Steel
+- Switches: Cherry MX Blues
+- Stabilizer: Cherry plate mount(?) will need to double check if pcb or plate
+- Keycaps: OEM PBT
+- Mounting style: Tray mount
+
+Pros: PBT keycaps, DIP switches, steel plate
