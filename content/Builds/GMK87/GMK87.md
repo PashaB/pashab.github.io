@@ -1,7 +1,7 @@
 ---
 tags:
   - MX
-status: Planning
+status: Complete
 date_built:
 total_cost: 0
 board_model: ""
@@ -22,4 +22,17 @@ keycap_set: ""
 stab_brand: ""
 keyboard_mods:
 ---
+## Parts:
+- Case: OEM ABS case
+- Plate: PC Plate
+- Switches: Gateron Yellow G Pro 3.0
+- Stabilizer: TX AP4
+- Keycaps: DCX Topaz 
+- Mounting style: Gasket
+- Connection: Tri-mode
+- Weight: None
+- Foams: Yes - PCB foam removed
+- Mods: Cut PC Plate. Spacebar gasket cut away, stabs cut to fit PCB mount stabs
+- Total cost: $120
+
 ![[gmk87.jpg]]
